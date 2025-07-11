@@ -11,5 +11,5 @@ Analyze customer shopping data to:
 
 # Dataset Used
 
-- [Customer Dataset] (customer.csv)
+- [Customer Dataset] (datasets/customer_data.csv)
   
