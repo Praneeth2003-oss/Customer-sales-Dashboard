@@ -49,3 +49,35 @@ Analyze customer shopping data to:
 
 
 ![Dasboard Screenshot](https://github.com/Praneeth2003-oss/Customer-sales-Dashboard/blob/4013302d54060f9fae5ae23eef1de84a4efbf068/snapshot_sale%20slide3.png)
+
+
+# Project Insight
+
+- Majority of purchases and revenue come from female customers aged 36-45.
+
+- Most purchased category: Clothing
+
+- Preferred payment method : Cash
+
+- Mall of istanbul has highest sales volume.
+
+# Recommendations
+
+- Introduce targeted loyalty programs for young female shoppers.
+
+- Expand clothing inventory in top-performing malls.
+
+- Offer limited-time promotions for underperforming categories.
+
+- Streamline debit card payment with rewards.
+
+
+# Personal Suggestion
+
+- Introduce AI-driven customer segmentation for better targeting.
+
+- Partner with top malls for exclusive deals.
+
+- Use dynamic pricing during peak shopping hours.
+
+- Train staff based on customer demography insights.
