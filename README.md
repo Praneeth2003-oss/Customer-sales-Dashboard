@@ -26,3 +26,4 @@ Analyze customer shopping data to:
 - Distribution of purchase categories relative to other columns?
 - Does the payment method have a relation with other columns?
 - How is the distribution of the payment method?
+- Dashboard Interaction(https://github.com/mrunaliurkudkar/Customer-sales-Dashboard/blob/eccd04f5882ac9a2287f0660f547fd40400a6908/customer_sales_dashboard.pbit)
