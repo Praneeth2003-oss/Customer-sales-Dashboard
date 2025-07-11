@@ -46,3 +46,6 @@ Analyze customer shopping data to:
 
 
 ![Dashboard Screenshot](https://github.com/Praneeth2003-oss/Customer-sales-Dashboard/blob/0d8b5c0093ccab22afc7510c5f1e300fa517d0b3/snapshot_sales%20slide2.png)
+
+
+![Dasboard Screenshot](https://github.com/Praneeth2003-oss/Customer-sales-Dashboard/blob/4013302d54060f9fae5ae23eef1de84a4efbf068/snapshot_sale%20slide3.png)
