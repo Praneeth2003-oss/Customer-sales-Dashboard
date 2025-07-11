@@ -38,3 +38,6 @@ Analyze customer shopping data to:
 - Designed interactive dashboards in Power BI to visualize patterns in customer behavior, sales distribution, and payment preferences.
 
 - Integrated filters and slicers for dynamic analysis, enabling stakeholders to explore data by Genders, category, age group,Shopping mall, and payment type.
+
+
+# Dashboard
