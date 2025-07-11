@@ -41,3 +41,5 @@ Analyze customer shopping data to:
 
 
 # Dashboard
+
+![Dashboard Screenshot](https://github.com/Praneeth2003-oss/Customer-sales-Dashboard/blob/6de9a3478558c19c9a9cc59fc60beb741c1ea4e9/snapshot_salesdashboard.png)
