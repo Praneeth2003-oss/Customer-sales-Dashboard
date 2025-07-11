@@ -27,3 +27,14 @@ Analyze customer shopping data to:
 - Does the payment method have a relation with other columns?
 - How is the distribution of the payment method?
 - Dashboard Interaction- [View Interactive Dashboard](https://github.com/Praneeth2003-oss/Customer-sales-Dashboard/blob/6ba95886b9bfaf115b8b1a9dd8d35f3bb7c604b9/customer_sales_dashboard.pbit)
+
+
+# Process
+
+- Collected and cleaned customer transaction data (2021–2023) for accurate analysis across gender, age, product category, and payment methods.
+
+- Wrote SQL queries to extract key insights, including total purchases, quantity sold, and revenue by demographic and shopping behavior.
+
+- Designed interactive dashboards in Power BI to visualize patterns in customer behavior, sales distribution, and payment preferences.
+
+- Integrated filters and slicers for dynamic analysis, enabling stakeholders to explore data by Genders, category, age group,Shopping mall, and payment type.
